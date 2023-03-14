@@ -1,13 +1,19 @@
 
 | CS-665       | Software Design & Patterns |
 |--------------|----------------------------|
-| Name         | FIRST_NAME LAST_NAME       |
-| Date         | MM/DD/YYYY                 |
-| Course       | Fall / Spring / Summer     |
-| Assignment # |                            |
+| Name         | Zhuoran Xu                 |
+| Date         | 03/12/2023                 |
+| Course       | Spring                     |
+| Assignment # | 3                          |
 
 # Assignment Overview
-Please add a paragraph or two overviewing the objectives of the assignment.
+Based on the given requirements, I decide to use the Factory Method design pattern. The Factory Method design pattern provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+
+In this case, we can have a superclass called "Email" and subclasses for each customer type such as "BusinessEmail", "ReturningEmail", "FrequentEmail", "NewEmail", and "VIPEmail".
+
+The "Email Generation" application can have a "EmailFactory" class that utilizes the Factory Method to create personalized emails for each email type. 
+
+The "EmailGenerator" class would receive the email object as input, determine the email type, and create the appropriate email object for that email type. The email object would be responsible for generating the personalized email text based on the base template for that email type.
 
 # GitHub Repository Link:
 https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
@@ -19,11 +25,25 @@ For each assignment, please answer the following:
 
 - Explain the level of flexibility in your implementation, including how new object types can
 be easily added or removed in the future.
+It is easy to add new objects(Type of Email), create a new java class, and make it implement Email. And then define unique email type for new class.
+
+
+
 - Discuss the simplicity and understandability of your implementation, ensuring that it is
 easy for others to read and maintain.
+It is very easy to understand the code, which there is a super class named "Email", and many subclasses satisfy the requirements.
+And there is a class named EmailFactory to create different types of email.
+
+
 - Describe how you have avoided duplicated code and why it is important.
+Without Factory Pattern, I need to create many functions named "CreateEmail" to create different types of email.
+On the contrary, because of all the email types implement by class Email. I only have to call the same function with different parameters like "business", "new", "VIP" and so forth.
+
+
 - If applicable, mention any design patterns you have used and explain why they were
 chosen.
+The Factory Method design pattern provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+
 
 
 # Maven Commands
