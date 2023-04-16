@@ -30,7 +30,7 @@ The "Email Generation" application can have a "EmailFactory" class that utilizes
 The "EmailGenerator" class would receive the email object as input, determine the email type, and create the appropriate email object for that email type. The email object would be responsible for generating the personalized email text based on the base template for that email type.
 
 # GitHub Repository Link:
-https://github.com/BourneRan/cs-665-assignment-3
+https://github.com/BourneRan/cs-665-assignment-3/tree/Assignment_6_Xu
 
 # Implementation Description 
 
