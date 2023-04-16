@@ -17,4 +17,6 @@ public class BusinessEmail implements Email{
         System.out.println(businessEmail);
         return businessEmail;
     }
+
+
 }

@@ -8,8 +8,14 @@ package edu.bu.met.cs665.Email;
  * @Date: 2023/03/12/16:45
  * @Description: Define a factory named "EmailFactory" to create personalized emails for each email type.
  */
-public class EmailFactory {
-    public static Email createEmail(String customerType) {
+public class EmailFactory implements Factory_Interface{
+
+    public EmailFactory(){
+        EmailFactory emailFactory;
+    }
+
+    @Override
+    public Email createEmail(String customerType) {
         switch(customerType) {
             case "Business":
                 return new BusinessEmail();

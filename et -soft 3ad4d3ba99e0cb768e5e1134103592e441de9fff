@@ -1,0 +1,107 @@
+[33mcommit db31aaf83225ca20c7119f17d832167790c1841b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bourne <Bourne.Ran991001@gmail.com>
+Date:   Sun Apr 16 16:15:27 2023 -0400
+
+    undate for creating a interface for Factory Method; Create 5 junit test for AssertEqual and AssertNotNull; Add my Github repo link to your README file
+
+[33mcommit 3ad4d3ba99e0cb768e5e1134103592e441de9fff[m
+Author: Bourne <108484391+BourneRan@users.noreply.github.com>
+Date:   Tue Mar 14 15:44:48 2023 -0400
+
+    Update README.md
+
+[33mcommit 866c563849020c38829b3f0a4e90c33e1e551480[m
+Author: Zhuoran <Bourne.Ran991001@gmail.com>
+Date:   Tue Mar 14 15:40:39 2023 -0400
+
+    Hw3
+
+[33mcommit 5454f18150d54cb567d99a339e8d654baa0c607f[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 16:57:37 2023 -0500
+
+    comment pom.xml file
+
+[33mcommit 2a595b6205602cc5c272e045ded40c100f886440[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 15:27:08 2023 -0500
+
+    remove the .bat and .sh files
+
+[33mcommit 5b620a8d0e3594bfe3b273064a043576c9d8c703[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 14:57:29 2023 -0500
+
+    add to gitignore file
+
+[33mcommit fe66c48be49d632df7c13947ba25de99d905361b[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 14:55:06 2023 -0500
+
+    add gitignore to ignore target directory
+
+[33mcommit 487b0cbc1cbdd543f4aa38db69eb1d82df0fb318[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 14:53:51 2023 -0500
+
+    remove target directory
+
+[33mcommit d1ee4f93df4f575c9b9d53c2c9c24e04978f528a[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Wed Feb 22 14:51:42 2023 -0500
+
+    clean up Main.java and Person.java
+
+[33mcommit baed26af1473c0c48be3d741fa391ea90cade54b[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Sun Feb 19 09:40:24 2023 -0500
+
+    removed Author.md file
+
+[33mcommit add027964958c361ee678363c317dce53a4b4f6d[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Sun Feb 19 09:37:17 2023 -0500
+
+    add reminde for GitHub link in README file
+
+[33mcommit bf4fe530e724064b0de9e11aad609f54062c7c17[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Sun Feb 19 09:36:22 2023 -0500
+
+    add reminde for GitHub link in README file
+
+[33mcommit ba8d000a02e3c122caa3f1dd035c2805ad2c3359[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Fri Feb 10 18:28:16 2023 -0500
+
+    removed the Log4j logger
+
+[33mcommit 62dc4b1d3e6bd2291eb25da7f0f15b82ff7dd2ae[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Fri Feb 10 18:22:40 2023 -0500
+
+    Editing the README file
+
+[33mcommit f7d8fb682cd8725763e88eeebda40101f79402ac[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Fri Feb 10 18:18:42 2023 -0500
+
+    Editing the README file
+
+[33mcommit e55b1df9a20631669aef5b09d15585d4324dba59[m
+Author: Ed Orsini <edorsini@edsmbp1inch2021.lan>
+Date:   Fri Feb 10 18:13:11 2023 -0500
+
+    cleaning up Assignment Template
+
+[33mcommit 6e411a450908ea6674ab6d5a89bdcafcbfaf309b[m
+Author: Ed Orsini <edorsini@Eds-MacBook-Pro-14-inch-2021.local>
+Date:   Thu Feb 2 14:03:44 2023 -0500
+
+    Add initial files
+
+[33mcommit 7a3160247829cb5f67ae6cfe935490b5dafad8ae[m
+Author: Ed Orsini <edorsini@gmail.com>
+Date:   Thu Feb 2 14:01:45 2023 -0500
+
+    Initial commit
